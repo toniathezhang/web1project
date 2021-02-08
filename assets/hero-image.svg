@@ -1,0 +1,16 @@
+<!-- decided not to use -->
+  
+  
+  
+  <svg xmlns="http://www.w3.org/2000/svg" width="650" height="644" viewBox="0 0 650 644">
+  <g id="hero-image" transform="translate(-888 -244)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="168" height="168" rx="42" transform="translate(1214 244)" fill="#f7cbd3"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="168" height="168" rx="42" transform="translate(1214 567)" fill="#f7cbd3"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="168" height="168" rx="42" transform="translate(1370 397)" fill="#efa2a2"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="169" height="168" rx="42" transform="translate(1045 395)" fill="#fff"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="169" height="168" rx="42" transform="translate(888 559)" fill="#efa2a2"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="169" height="168" rx="42" transform="translate(1045 720)" fill="#fff"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="156" height="155" rx="77.5" transform="translate(1058 565)" fill="#d17272"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="156" height="155" rx="77.5" transform="translate(1214 412)" fill="#d17272"/>
+  </g>
+</svg>

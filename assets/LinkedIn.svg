@@ -1,0 +1,10 @@
+<!-- decided not to use -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="40.4" height="40.4" viewBox="0 0 40.4 40.4">
+  <g id="LinkedIn" transform="translate(-0.066 -0.005)">
+    <path id="Path_12" data-name="Path 12" d="M39.266,20.205a19,19,0,1,1-19-19A19,19,0,0,1,39.266,20.205Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-width="2.4"/>
+    <path id="Path_13" data-name="Path 13" d="M9.462,10.345A2.083,2.083,0,1,0,7.379,8.262,2.083,2.083,0,0,0,9.462,10.345Z" transform="translate(4.221 3.435)"/>
+    <path id="Path_14" data-name="Path 14" d="M13.4,9.694V21.249h3.588V15.535c0-1.508.284-2.968,2.153-2.968C20.98,12.567,21,14.291,21,15.63v5.62h3.59V14.913c0-3.113-.67-5.5-4.308-5.5a3.772,3.772,0,0,0-3.4,1.866H16.84V9.694Zm-5.847,0h3.593V21.249H7.549Z" transform="translate(4.338 5.665)"/>
+  </g>
+</svg>

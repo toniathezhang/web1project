@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+body {
+    /* styling the body and applying the pixel font-family to the entire body */
+
+    height:100vh;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+}
+
+ul {
+
+    list-style-type: none;
+    /* to remove dots from unordered list */
+    
+    margin:0;
+    padding:0;
+    display: flex;
+
+}
+
+a{
+    color: #F9F8E4;
+    text-decoration: none;
+    /* this is to remove underlines from the words in the header/navbar */
+}
+
+
+
+.nav-container {
+
+    background: #FF8387;
+}
+
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    /* // space between flexbox items */
+    padding: 2em;
+}
+
+   
+  
+
+a {
+    display: block;
+    padding: 0 1em;
+    /* font treatment of the links: "works" "skills" and "hire me" */
+ }
+    
+
+
+
+.hero {
+    background: pink;
+    color: white;
+    display: grid;
+    text-align: center;
+    padding: 1em;
+    border-style:dashed;
+
+}
+
+.rainbow-text{
+    /* (below) is code for rainbow text that I got from here: https://w3bits.com/rainbow-text/ */
+    /* background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); */
+      background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+
+.meet {
+    
+    margin: 0 auto;
+    width: 200px;
+    color: white;
+}
+
+
+.scroll {
+    width: 30px;
+    /* margin-top: 0.25em; */
+}

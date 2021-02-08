@@ -1,0 +1,9 @@
+<!-- this is the arrow svg you can see on the page -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="80.702" height="113.816" viewBox="0 0 80.702 113.816">
+  <g id="scroll" transform="translate(-157.856 -633)">
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="17" height="113" rx="5" transform="translate(190 633)" fill="#fff"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="15" height="60" rx="4" transform="matrix(0.819, 0.574, -0.574, 0.819, 226.271, 689.063)" fill="#fff"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="15" height="60" rx="4" transform="matrix(-0.819, 0.574, -0.574, -0.819, 204.558, 737.213)" fill="#fff"/>
+  </g>
+</svg>
